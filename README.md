@@ -1,4 +1,7 @@
 # AI_Classification_DATA832
+
+Pour voir nos résultats : lancer le fichier main.py
+
 Ce projet a pour objectif d’amener les étudiants à mettre en pratique les concepts
 fondamentaux de l’apprentissage supervisé, en appliquant différentes méthodologies
 sur un problème de classification. Ils devront :
